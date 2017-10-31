@@ -1,0 +1,6 @@
+[submodule "node-rdata"]
+	path = node-rdata
+	url = https://github.com/hirenj/node-rdata.git
+[submodule "noncensus"]
+	path = noncensus
+	url = https://github.com/ramhiser/noncensus.git
